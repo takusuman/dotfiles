@@ -1,0 +1,228 @@
+[DesktopIcons]
+ActiveEffect=togamma
+ActiveValue=0.7
+AlphaBlending=true
+Size=32
+
+[Desktops]
+Name_1=
+Name_2=
+Name_3=
+Name_4=
+Number=4
+
+[General]
+alternateBackground=183,183,183
+background=157,185,200
+buttonBackground=157,185,200
+buttonForeground=0,0,0
+foreground=0,0,0
+linkColor=0,0,192
+selectBackground=85,128,151
+selectForeground=255,255,255
+visitedLinkColor=128,0,128
+windowBackground=195,195,195
+windowForeground=0,0,0
+
+[Global Keys]
+Execute command=default(Alt+F2)
+Kill Window=default(Alt+Ctrl+Escape)
+Lock screen=default(Alt+Ctrl+L)
+Logout=default(Alt+Ctrl+Delete)
+Logout without Confirmation=default(Alt+Ctrl+Shift+Delete)
+Mouse emulation=default(Alt+F12)
+Next keyboard layout=default(Alt+Ctrl+K)
+Pop-up window operations menu=default(Alt+F3)
+Popup Launch Menu=default(Alt+F1)
+Screenshot of active window=default(Alt+Print)
+Screenshot of desktop=default(Ctrl+Print)
+Show taskmanager=default(Ctrl+Escape)
+Show window list=default(Alt+F5)
+Switch desktop down=default()
+Switch desktop left=default()
+Switch desktop next=default()
+Switch desktop previous=default()
+Switch desktop right=default()
+Switch desktop up=default()
+Switch to desktop 1=default(Ctrl+F1)
+Switch to desktop 10=default(Ctrl+F10)
+Switch to desktop 11=default(Ctrl+F11)
+Switch to desktop 12=default(Ctrl+F12)
+Switch to desktop 13=default(Ctrl+Shift+F1)
+Switch to desktop 14=default(Ctrl+Shift+F2)
+Switch to desktop 15=default(Ctrl+Shift+F3)
+Switch to desktop 16=default(Ctrl+Shift+F4)
+Switch to desktop 2=default(Ctrl+F2)
+Switch to desktop 3=default(Ctrl+F3)
+Switch to desktop 4=default(Ctrl+F4)
+Switch to desktop 5=default(Ctrl+F5)
+Switch to desktop 6=default(Ctrl+F6)
+Switch to desktop 7=default(Ctrl+F7)
+Switch to desktop 8=default(Ctrl+F8)
+Switch to desktop 9=default(Ctrl+F9)
+Toggle Show Desktop=default(Alt+Ctrl+D)
+Toggle raise and lower=default()
+Walk back through desktop list=default(Ctrl+Shift+Tab)
+Walk back through desktops=default()
+Walk back through windows=default(Alt+Shift+Tab)
+Walk through desktop list=default(Ctrl+Tab)
+Walk through desktops=default()
+Walk through windows=default(Alt+Tab)
+Window close=default(Alt+F4)
+Window close all=default(Alt+Shift+F4)
+Window iconify=default()
+Window lower=default()
+Window maximize=default()
+Window maximize horizontal=default()
+Window maximize vertical=default()
+Window move=default()
+Window raise=default()
+Window resize=default()
+Window shade=default()
+Window to Desktop 1=default()
+Window to Desktop 10=default()
+Window to Desktop 11=default()
+Window to Desktop 12=default()
+Window to Desktop 13=default()
+Window to Desktop 14=default()
+Window to Desktop 15=default()
+Window to Desktop 16=default()
+Window to Desktop 2=default()
+Window to Desktop 3=default()
+Window to Desktop 4=default()
+Window to Desktop 5=default()
+Window to Desktop 6=default()
+Window to Desktop 7=default()
+Window to Desktop 8=default()
+Window to Desktop 9=default()
+Window to next desktop=default()
+Window to previous desktop=default()
+repeat-last-klipper-action=default(Alt+Ctrl+R)
+show-klipper-popupmenu=default(Alt+Ctrl+V)
+toggle-clipboard-actions=default(Alt+Ctrl+X)
+
+[KDE]
+AntiAliasing=true
+AutoSelectDelay=-1
+ChangeCursor=true
+DoubleClickInterval=400
+EffectAnimateCombo=true
+EffectAnimateMenu=false
+EffectAnimateTooltip=false
+EffectFadeMenu=false
+EffectFadeTooltip=true
+EffectNoTooltip=false
+LargeCursor=false
+SingleClick=true
+StartDragDist=4
+StartDragTime=500
+VisualActivate=1
+WheelScrollLines=3
+colorScheme=
+contrast=7
+currentTheme=/usr/local/share/kstyle2/themes/highcolor.themerc
+macStyle=true
+widgetStyle=hcstyle.la
+widgetStyleName=HighColor Default
+
+[KFileDialog Settings]
+Height (768)=464
+LocationCombo Completionmode=2
+PathCombo Completionmode=2
+Recent URLs=/usr/home/luiz/Documents/,/tmp/,/usr/home/luiz/Pictures/,/usr/home/luiz/.kde2/share/wallpapers/,/usr/home/luiz/Documents/Wallpapers/,/usr/home/luiz/Downloads/,/usr/home/,/usr/home/luiz/projetos/pindorama/
+Separate Directories=false
+Show Preview=true
+Show hidden files=false
+Sort by=Name
+Sort case insensitively=true
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+Width (2390)=957
+
+[KSpell]
+KSpell_Client=0
+KSpell_DictFromList=1
+KSpell_Dictionary=
+KSpell_Encoding=11
+KSpell_NoRootAffix=0
+KSpell_RunTogether=0
+
+[Keys]
+AddBookmark=Ctrl+B
+Back=Alt+Left
+Close=Ctrl+W
+Copy=Ctrl+C
+Cut=Ctrl+X
+DeleteWordBack=Ctrl+Backspace
+DeleteWordForward=Ctrl+Delete
+End=Ctrl+End
+Find=Ctrl+F
+FindNext=F3
+FindPrev=Shift+F3
+Forward=Alt+Right
+GotoLine=Ctrl+G
+Help=F1
+Home=Ctrl+Home
+Insert=Ctrl+Insert
+New=Ctrl+N
+Next=Next
+NextCompletion=Ctrl+Down
+Open=Ctrl+O
+Paste=Ctrl+V
+PopupMenuContext=Menu
+PrevCompletion=Ctrl+Up
+Print=Ctrl+P
+Prior=Prior
+Quit=Ctrl+Q
+Redo=Ctrl+Shift+Z
+Reload=F5
+Replace=Ctrl+R
+RotateDown=Down
+RotateUp=Up
+Save=Ctrl+S
+SelectAll=Ctrl+A
+ShowMenubar=Ctrl+M
+TextCompletion=Ctrl+E
+Undo=Ctrl+Z
+Up=Alt+Up
+WhatThis=Shift+F1
+ZoomIn=Ctrl+Plus
+ZoomOut=Ctrl+Minus
+
+[Locale]
+Country=br
+Language=
+
+[MainToolbarIcons]
+Size=22
+
+[PanelIcons]
+ActiveEffect=togamma
+ActiveValue=0.7
+AlphaBlending=true
+Size=32
+
+[Paths]
+Trash=/usr/home/luiz/Desktop/Trash/
+
+[SmallIcons]
+Size=16
+
+[Toolbar style]
+Highlighting=1
+IconText=IconOnly
+TransparentMoving=1
+
+[ToolbarIcons]
+Size=22
+
+[WM]
+activeBackground=85,128,151
+activeBlend=157,185,200
+activeForeground=255,255,255
+activeTitleBtnBg=157,185,200
+inactiveBackground=156,156,156
+inactiveBlend=157,185,200
+inactiveForeground=214,214,214
+inactiveTitleBtnBg=157,185,200

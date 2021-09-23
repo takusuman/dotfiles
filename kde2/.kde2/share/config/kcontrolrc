@@ -1,0 +1,23 @@
+[General]
+InitialHeight 768=572
+InitialWidth 2390=786
+
+[Index]
+IconSize=Medium
+ViewMode=Tree
+
+[KFileDialog Settings]
+Automatic Preview=true
+Recent Files=/usr/home/luiz/Documents/Brazilian-Space-Agency.jpg
+
+[KFileIconView]
+ViewMode=SmallColumns
+
+[Options]
+colors=true
+icons=true
+overwrite=false
+panel=true
+sounds=true
+wallpapers=true
+wm=true

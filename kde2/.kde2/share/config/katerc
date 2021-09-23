@@ -1,0 +1,506 @@
+[.desktop Highlight]
+Key=1,FF000000,FFFFFFFF,0,0
+Language=0,FF0000FF,FFFFFFFF,1,0
+Mimetypes=application/x-desktop
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Section=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.desktop;*.kdelnk
+
+[Ada Highlight]
+Base-N=1,FF000000,FFFFFFFF,0,0
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-ada-src
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.a
+
+[Bash Highlight]
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-shellscript
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Operator=1,FF000000,FFFFFFFF,0,0
+Parameter=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Substitution=1,FF000000,FFFFFFFF,0,0
+Wildcards=
+
+[C Highlight]
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Hex=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-c++-src;text/x-chdr;text/x-csrc
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Octal=1,FF000000,FFFFFFFF,0,0
+Prep. Lib=1,FF000000,FFFFFFFF,0,0
+Preprocessor=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+String Char=1,FF000000,FFFFFFFF,0,0
+Symbol=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.c;*.C;*.h
+
+[C++ Highlight]
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Hex=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-c++-src;text/x-c++-hdr;text/x-c-hdr;text/x-c++-src
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Octal=1,FF000000,FFFFFFFF,0,0
+Prep. Lib=1,FF000000,FFFFFFFF,0,0
+Preprocessor=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+String Char=1,FF000000,FFFFFFFF,0,0
+Symbol=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.cxx;*.cpp;*.cc;*.C;*.h
+
+[CSS Highlight]
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/css
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.css
+
+[ChangeLog Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=ChangeLog
+
+[Colors]
+CurrentPalette=* Recent Colors *
+
+[Default Item Styles]
+Base-N Integer=FF008080,FF00FFFF,0,0
+Character=FFFF00FF,FFFF00FF,0,0
+Comment=FF808080,FFA0A0A4,0,1
+Data Type=FF800000,FFFFFFFF,0,0
+Decimal/Value=FF0000FF,FF00FFFF,0,0
+Floating Point=FF800080,FF00FFFF,0,0
+Keyword=FF000000,FFFFFFFF,1,0
+Normal=FF000000,FFFFFFFF,0,0
+Others=FF008000,FF00FF00,0,0
+String=FFFF0000,FFFF0000,0,0
+
+[Diff Highlight]
+Added line=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/plain; text/x-c++-src;text/x-c++-hdr;text/x-c-hdr;text/x-c++-src
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Removed line=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.diff;*patch
+
+[General]
+Opaque Resize=true
+Show Console=false
+Show Full Path in Title=false
+Show Toolbar=true
+Sync Konsole=true
+restore views=false
+size=1020,438
+
+[HTML Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/html
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.html;*.htm;*.shtml;*.shtm
+
+[Highlighting_Cache/usr/local/share/kate/syntax/ada.xml]
+extension=*.a
+mimetype=text/x-ada-src
+name=Ada
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/bash.xml]
+extension=
+mimetype=text/x-shellscript
+name=Bash
+section=Scripts
+
+[Highlighting_Cache/usr/local/share/kate/syntax/c.xml]
+extension=*.c;*.C;*.h
+mimetype=text/x-c++-src;text/x-chdr;text/x-csrc
+name=C
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/changelog.xml]
+extension=ChangeLog
+mimetype=
+name=ChangeLog
+section=Other
+
+[Highlighting_Cache/usr/local/share/kate/syntax/cpp.xml]
+extension=*.cxx;*.cpp;*.cc;*.C;*.h
+mimetype=text/x-c++-src;text/x-c++-hdr;text/x-c-hdr;text/x-c++-src
+name=C++
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/css.xml]
+extension=*.css
+mimetype=text/css
+name=CSS
+section=Markup
+
+[Highlighting_Cache/usr/local/share/kate/syntax/desktop.xml]
+extension=*.desktop;*.kdelnk
+mimetype=application/x-desktop
+name=.desktop
+section=Other
+
+[Highlighting_Cache/usr/local/share/kate/syntax/diff.xml]
+extension=*.diff;*patch
+mimetype=text/plain; text/x-c++-src;text/x-c++-hdr;text/x-c-hdr;text/x-c++-src
+name=Diff
+section=Other
+
+[Highlighting_Cache/usr/local/share/kate/syntax/html.xml]
+extension=*.html;*.htm;*.shtml;*.shtm
+mimetype=text/html
+name=HTML
+section=Markup
+
+[Highlighting_Cache/usr/local/share/kate/syntax/java.xml]
+extension=*.java
+mimetype=text/x-java-src
+name=Java
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/kbasic.xml]
+extension=*.kbasic
+mimetype=text/x-kbasic-src
+name=KBasic
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/latex.xml]
+extension=*.tex;*.TEX;*.bib;*.BIB;*.ltx;*.LTX;*.sty;*.STY;*.cls;*.CLS
+mimetype=text/x-tex
+name=LaTeX
+section=Markup
+
+[Highlighting_Cache/usr/local/share/kate/syntax/objectivec.xml]
+extension=*.m;*.h
+mimetype=text/x-objc-src;text/x-c-hdr
+name=Objective-C
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/perl.xml]
+extension=*.pl;*.pm
+mimetype=
+name=Perl
+section=Scripts
+
+[Highlighting_Cache/usr/local/share/kate/syntax/php.xml]
+extension=*.php;*.php3;*.wml;*.phtml
+mimetype=text/x-php4-src;text/x-php3-src;text/vnd.wap.wml
+name=PHP
+section=Scripts
+
+[Highlighting_Cache/usr/local/share/kate/syntax/postscript.xml]
+extension=*.ps;*.ai;*.eps
+mimetype=application/postscript
+name=PostScript
+section=Markup
+
+[Highlighting_Cache/usr/local/share/kate/syntax/rpmspec.xml]
+extension=*.spec
+mimetype=
+name=RPM Spec
+section=Other
+
+[Highlighting_Cache/usr/local/share/kate/syntax/ruby.xml]
+extension=*.rb
+mimetype=text/x-ruby
+name=Ruby
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/sql.xml]
+extension=*.sql;*.SQL
+mimetype=text/x-sql
+name=SQL
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/vhdl.xml]
+extension=*.vdhl;*.vhd
+mimetype=text/x-vhdl
+name=VHDL
+section=Sources
+
+[Highlighting_Cache/usr/local/share/kate/syntax/xml.xml]
+extension=*.docbook;*.xml;*.rc;*.sgml
+mimetype=text/sgml;text/xml;text/book
+name=XML/SGML
+section=Markup
+
+[Java Highlight]
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Hex=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-java-src
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Octal=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+String Char=1,FF000000,FFFFFFFF,0,0
+Symbol=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.java
+
+[KBasic Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-kbasic-src
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.kbasic
+
+[KFileDialog Settings]
+Automatic Preview=true
+Recent Files=/usr/home/luiz/projetos/pindorama/login_copacabana,/tmp/Luiz Antnio-2o-em-2otrimestre-atv-comp-08sep2021_respostas.txt
+
+[KFileIconView]
+ViewMode=SmallColumns
+
+[KPrinter Settings]
+PrintCommand=
+Printer=
+
+[Kate Document]
+Color Background=255,255,255
+Color Selected=72,78,188
+Encoding=
+Font=courier,9,2,0,50,0
+SingleSelection=false
+TabWidth=8
+UndoSteps=50
+Word Wrap At=80
+Word Wrap On=false
+
+[Kate View]
+ConfigFlags=11191347
+SearchFlags=1124
+
+[LaTeX Highlight]
+Begin End=0,FF000000,FFFFFFFF,1,1
+Comment=1,FF000000,FFFFFFFF,0,0
+Keyword=0,FF0000FF,FFFF0000,1,1
+Mimetypes=text/x-tex
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.tex;*.TEX;*.bib;*.BIB;*.ltx;*.LTX;*.sty;*.STY;*.cls;*.CLS
+
+[Normal Highlight]
+Mimetypes=
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Wildcards=
+
+[Objective-C Highlight]
+Char=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Hex=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-objc-src;text/x-c-hdr
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Octal=1,FF000000,FFFFFFFF,0,0
+Prep. Lib=1,FF000000,FFFFFFFF,0,0
+Preprocessor=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+String Char=1,FF000000,FFFFFFFF,0,0
+Symbol=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.m;*.h
+
+[PHP Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-php4-src;text/x-php3-src;text/vnd.wap.wml
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.php;*.php3;*.wml;*.phtml
+
+[Perl Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Data=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Function=1,FF000000,FFFFFFFF,0,0
+Hex=1,FF000000,FFFFFFFF,0,0
+Interpolated String=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Nothing=1,FF000000,FFFFFFFF,0,0
+Octal=1,FF000000,FFFFFFFF,0,0
+Operator=1,FF000000,FFFFFFFF,0,0
+Pattern=1,FF000000,FFFFFFFF,0,0
+Pattern Character Class=1,FF000000,FFFFFFFF,0,0
+Pattern Internal Operator=1,FF000000,FFFFFFFF,0,0
+Pod=1,FF000000,FFFFFFFF,0,0
+Pragma=1,FF000000,FFFFFFFF,0,0
+Special Variable=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.pl;*.pm
+
+[PostScript Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Header=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=application/postscript
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.ps;*.ai;*.eps
+
+[RPM Spec Highlight]
+Blue=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Red=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.spec
+
+[Recent Files]
+File1=file:/usr/home/luiz/Downloads/pkg-get
+File2=file:/tmp/Luiz Antnio-2o-em-2otrimestre-atv-comp-08sep2021_respostas.txt
+
+[Ruby Highlight]
+Attribute Definition=1,FF000000,FFFFFFFF,0,0
+Char=1,FF000000,FFFFFFFF,0,0
+Class Variable=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Definition=1,FF000000,FFFFFFFF,0,0
+Delimiter=1,FF000000,FFFFFFFF,0,0
+Expression=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Global Constant=1,FF000000,FFFFFFFF,0,0
+Global Variable=1,FF000000,FFFFFFFF,0,0
+Instance Variable=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Literal=1,FF000000,FFFFFFFF,0,0
+Main Comment=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-ruby
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Operator=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Symbol=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.rb
+
+[SQL Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Decimal=1,FF000000,FFFFFFFF,0,0
+Float=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-sql
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.sql;*.SQL
+
+[VHDL Highlight]
+Attribute=1,FF000000,FFFFFFFF,0,0
+Bit=1,FF000000,FFFFFFFF,0,0
+Comment=1,FF000000,FFFFFFFF,0,0
+Data Type=1,FF000000,FFFFFFFF,0,0
+Integer=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/x-vhdl
+Normal Text=1,FF000000,FFFFFFFF,0,0
+Operator=1,FF000000,FFFFFFFF,0,0
+Vector=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.vdhl;*.vhd
+
+[XML/SGML Highlight]
+Comment=1,FF000000,FFFFFFFF,0,0
+Identifier=1,FF000000,FFFFFFFF,0,0
+Keyword=1,FF000000,FFFFFFFF,0,0
+Mimetypes=text/sgml;text/xml;text/book
+Normal Text=1,FF000000,FFFFFFFF,0,0
+String=1,FF000000,FFFFFFFF,0,0
+Types=1,FF000000,FFFFFFFF,0,0
+Wildcards=*.docbook;*.xml;*.rc;*.sgml
+
+[dock_setting_default]
+Main:Geometry=96,116,1020,438
+Main:dock=mainDock
+Main:view=filelistDock,fileselectorDock,mainDock
+Main:visible=true
+NameList=mainDock,filelistDock,fileselectorDock,filelistDock\\,fileselectorDock,filelistDock\\,fileselectorDock\\,mainDock
+Version=0.0.5
+filelistDock,fileselectorDock,mainDock:first_name=filelistDock,fileselectorDock
+filelistDock,fileselectorDock,mainDock:last_name=mainDock
+filelistDock,fileselectorDock,mainDock:orientation=1
+filelistDock,fileselectorDock,mainDock:parent=yes
+filelistDock,fileselectorDock,mainDock:sepPos=20
+filelistDock,fileselectorDock,mainDock:stayButton=false
+filelistDock,fileselectorDock,mainDock:type=GROUP
+filelistDock,fileselectorDock:curTab=0
+filelistDock,fileselectorDock:parent=yes
+filelistDock,fileselectorDock:stayButton=false
+filelistDock,fileselectorDock:tabNames=filelistDock,fileselectorDock
+filelistDock,fileselectorDock:type=TAB_GROUP
+filelistDock:stayButton=false
+filelistDock:type=DOCK
+fileselectorDock:stayButton=false
+fileselectorDock:type=DOCK
+mainDock:stayButton=false
+mainDock:type=DOCK
+
+[fileselector]
+current filter=0
+dir history=/usr/home/luiz/
+filter history=
+
+[fileselector:dir]
+Separate Directories=false
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort case insensitively=false
+Sort directories first=true
+Sort reversed=false
+View Style=Simple
+
+[open files]
+reopen at startup=true
+
+[startup]
+singleinstance=true

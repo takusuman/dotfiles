@@ -1,0 +1,14 @@
+[kcookiescfg.upd]
+ctime=1631058479
+done=kde2.2/r3,kde2.2/b1
+mtime=1631056531
+
+[kioslave.upd]
+ctime=1631058479
+done=kde2.2/r1,kde2.2/r2,kde2.2/r3
+mtime=1631056531
+
+[konsole.upd]
+ctime=1631059822
+done=kde2.2/b1,kde2.2/r1
+mtime=1631058830

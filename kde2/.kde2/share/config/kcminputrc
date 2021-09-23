@@ -1,0 +1,4 @@
+[Mouse]
+Acceleration=2
+MouseButtonMapping=RightHanded
+Threshold=4

@@ -1,0 +1,8 @@
+[DisplayEnergy]
+displayEnergySaving=false
+displayPowerOff=60
+displayStandby=0
+displaySuspend=30
+
+[X11]
+useResourceManager=false
